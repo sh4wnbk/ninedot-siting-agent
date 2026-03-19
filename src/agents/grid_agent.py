@@ -42,12 +42,13 @@ Here is the current ConEd hosting capacity data for {borough} networks
 
 {data_str}
 
-Based on this data, provide a concise Technical Feasibility Summary:
-1. Top 2-3 priority networks and why
-2. Any red flags or constraints to note
-3. A clear recommendation for NineDot's next step
+Based on this data, answer one specific question:
 
-Be specific and use the numbers."""
+Which single zone in the Bronx represents the best first installation 
+for NineDot? Consider: highest capacity, network reliability, and 
+strategic value as a flagship project.
+
+Give a specific recommendation with your reasoning. Use the numbers."""
             }
         ]
     )
